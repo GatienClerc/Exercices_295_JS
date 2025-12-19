@@ -1,20 +1,21 @@
 {
-  "name": "exercices_295_js",
+  "name": "api-gestion",
   "version": "1.0.0",
-  "description": "exercice cours C295",
-  "homepage": "https://github.com/GatienClerc/Exercices_295_JS#readme",
-  "bugs": {
-    "url": "https://github.com/GatienClerc/Exercices_295_JS/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GatienClerc/Exercices_295_JS.git"
-  },
-  "license": "ISC",
-  "author": "Gatien Clerc",
-  "type": "commonjs",
-  "main": "exercice_js.mjs",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
