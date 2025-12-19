@@ -1,6 +1,5 @@
 exercice C295
 ---
-
 ## exercice pour gerer un mini serveur avec api
 
 1. gestion des api
