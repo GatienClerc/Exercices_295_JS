@@ -1,4 +1,4 @@
-# exercice C295
+exercice C295
 ---
 
 ## exercice pour gerer un mini serveur avec api
